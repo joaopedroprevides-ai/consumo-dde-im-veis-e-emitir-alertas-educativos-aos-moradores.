@@ -21,23 +21,22 @@ O projeto trabalha conceitos básicos de programação, como entrada de dados, o
 | Casa | De 0 até 25 m³ | ✅ Consumo moderado |
 | Casa ou apartamento | Acima de 25 m³ | ⚠️ Consumo excessivo |
 
-O programa também informa quando o tipo de imóvel é inválido ou o consumo é negativo.
 
 ## 🚀 Como executar
 
 1. Instale o **Python 3** no computador.
-2. Salve o código do programa em um arquivo chamado `consumo_agua.py`.
+2. O código do programa está no arquivo `consumo-agua/app.py`.
 3. Abra a pasta do arquivo no **VS Code** e abra o terminal.
 4. Execute:
 
    ```bash
-   python consumo_agua.py
+   python consumo-agua/app.py
    ```
 
    Se o seu sistema utilizar o comando `python3`, execute:
 
    ```bash
-   python3 consumo_agua.py
+   python3 consumo-agua/app.py
    ```
 
 5. Digite o tipo de imóvel e o consumo mensal quando solicitado.
