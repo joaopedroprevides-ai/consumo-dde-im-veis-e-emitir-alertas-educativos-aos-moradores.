@@ -1,0 +1,2 @@
+# consumo-dde-im-veis-e-emitir-alertas-educativos-aos-moradores.
+Programa em Python que classifica o consumo mensal de água de imóveis comerciais, casas e apartamentos. Com base no tipo de imóvel e no consumo informado em m³, exibe mensagens educativas para incentivar o uso consciente da água. Projeto desenvolvido para praticar entrada de dados, operadores lógicos e estruturas condicionais `if`, `elif` e `else`
